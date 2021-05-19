@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LuhnCheck": {
+      "commandName": "Project",
+      "commandLineArgs": " 6331577888897778"
+    }
+  }
+}
